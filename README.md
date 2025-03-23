@@ -1,6 +1,3 @@
-# delta-demo
-this is a demo for Git &amp; Github class.
+# new project
 
-# subject
-web development
-
+This project was created from local system
